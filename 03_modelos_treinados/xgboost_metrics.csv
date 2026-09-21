@@ -1,2 +1,0 @@
-threshold,f1,precision,recall,roc_auc,n_test,n_violations_test
-0.85,0.17,0.143,0.21,0.767,6400,62
